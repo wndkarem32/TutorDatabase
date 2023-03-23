@@ -1,0 +1,33 @@
+[
+  {
+    "id": 187587762,
+    "nama": "Wandi K",
+    "matkul": [
+      "MATKUL_FISIKA",
+      "MATKUL_KIMIA"
+    ],
+    "sesi_sesi": [
+      {
+        "id": 698445047,
+        "matkul": "MATKUL_KIMIA",
+        "jadwal": {
+          "belum": false,
+          "unixtime": 1676178000,
+          "tipe": "SESI_PRIVAT"
+        }
+      },
+      {
+        "id": 510139077,
+        "matkul": "MATKUL_KIMIA",
+        "jadwal": {
+          "belum": true,
+          "unixtime": 1707714000,
+          "tipe": "SESI_PRIVAT"
+        }
+      }
+    ],
+    "banyak_privat": 1,
+    "banyak_grup": 0,
+    "banyak_smallclass": 0
+  }
+]
